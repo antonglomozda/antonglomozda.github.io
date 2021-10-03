@@ -4,4 +4,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: https://bestkurssliv.github.io/sitemap.xml
+Sitemap: https://antonglomozda.github.io//sitemap.xml
